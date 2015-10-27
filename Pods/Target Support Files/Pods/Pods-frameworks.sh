@@ -54,7 +54,6 @@ code_sign_if_enabled() {
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework 'Pods/Alamofire.framework'
   install_framework 'Pods/BlocksKit.framework'
-  install_framework 'Pods/IQKeyboardManagerSwift.framework'
   install_framework 'Pods/MBProgressHUD.framework'
   install_framework 'Pods/MJRefresh.framework'
   install_framework 'Pods/Masonry.framework'
@@ -64,7 +63,6 @@ fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework 'Pods/Alamofire.framework'
   install_framework 'Pods/BlocksKit.framework'
-  install_framework 'Pods/IQKeyboardManagerSwift.framework'
   install_framework 'Pods/MBProgressHUD.framework'
   install_framework 'Pods/MJRefresh.framework'
   install_framework 'Pods/Masonry.framework'

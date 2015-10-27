@@ -15,7 +15,6 @@ PODS:
   - BlocksKit/UIKit (2.2.5):
     - BlocksKit/Core
     - BlocksKit/DynamicDelegate
-  - IQKeyboardManagerSwift (3.3.1)
   - Masonry (0.6.2)
   - MBProgressHUD (0.9.1)
   - MJRefresh (2.4.10)
@@ -27,7 +26,6 @@ PODS:
 DEPENDENCIES:
   - Alamofire (~> 2.0.0)
   - BlocksKit (~> 2.2.5)
-  - IQKeyboardManagerSwift
   - Masonry (~> 0.6.2)
   - MBProgressHUD (~> 0.9.1)
   - MJRefresh (~> 2.4.9)
@@ -37,7 +35,6 @@ DEPENDENCIES:
 SPEC CHECKSUMS:
   Alamofire: 2f13548b29d25a58ecd91c9225fb51493e2b782b
   BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
-  IQKeyboardManagerSwift: aa053e83dd53cb50aa8c9c1fde78d74d9400657e
   Masonry: 362e8a1cc0beada4a4c4832d5e863da2a51533be
   MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
   MJRefresh: e52328552ed9cbfce3501e3820b18bf7643c65cc

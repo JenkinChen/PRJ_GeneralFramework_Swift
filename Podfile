@@ -1,8 +1,8 @@
 source 'https://github.com/CocoaPods/Specs.git'
-platform :ios, '9.0'
+platform :ios, '8.0'
 use_frameworks!
 
-pod 'IQKeyboardManagerSwift'
+#pod 'IQKeyboardManagerSwift', '~> 3.3.1'
 pod 'BlocksKit', '~> 2.2.5'
 pod 'QBImagePickerController', '<= 2.5.2'
 pod 'Masonry', '~> 0.6.2'
